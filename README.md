@@ -1,2 +1,3 @@
 # Suicide-Risk-Detection
 NLP project for detecting suicide risk from text.
+This project focuses on identifying potential suicide risk from textual data using Natural Language Processing (NLP) and Machine Learning techniques. The system performs text preprocessing, feature extraction using TF-IDF, and classification using multiple ML models to accurately categorize user text into risk levels. A user-friendly Streamlit web application is also developed to enable real-time prediction and interaction. The project demonstrates end-to-end implementation including data cleaning, model training, evaluation, and deployment.
